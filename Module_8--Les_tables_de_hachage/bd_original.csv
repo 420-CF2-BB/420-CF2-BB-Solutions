@@ -2,8 +2,8 @@ titre;année;collection;auteur;illustrateur
 Le Devin;1967;Astérix;René Goscinny;Albert Uderzo
 Le Bouclier Arverne;1968;Astérix;René Goscinny;Albert Uderzo
 Astérix et Cléopâtre;1965;Astérix;René Goscinny;Albert Uderzo
-Astérix : Le Combat des Chefs;1966;Astérix;René Goscinny;Albert Uderzo
-Astérix : La Serpe d’Or;1962;Astérix;René Goscinny;Albert Uderzo
+Le Combat des Chefs;1966;Astérix;René Goscinny;Albert Uderzo
+La Serpe d’Or;1962;Astérix;René Goscinny;Albert Uderzo
 Dalton City;1969;Lucky Luke;Morris;René Goscinny
 Des Rails sur la Prairie;1968;Lucky Luke;Morris;René Goscinny
 La Diligence;1962;Lucky Luke;Morris;René Goscinny
@@ -14,7 +14,7 @@ Lagaffe en Accéléré;1971;Gaston Lagaffe;Franquin;
 Le Réacteur;1973;Gaston Lagaffe;Franquin;
 La Classe de Neige;1997;Les Profs;Pica;Erroc
 Les Profs en Vacances;1998;Les Profs;Pica;Erroc
-Les Profs : La Révolte;2000;Les Profs;Pica;Erroc
+La Révolte;2000;Les Profs;Pica;Erroc
 Zénith;1997;Donjon;Lewis Trondheim;Joann Sfar
 Extremities;1998;Donjon;Lewis Trondheim;Joann Sfar
 Donjon Monsters;1999;Donjon;Lewis Trondheim;Joann Sfar
@@ -521,9 +521,164 @@ L’Île des Mers Gelées;1982;Thorgal;Jean Van Hamme;Grzegorz Rosiński
 Aaricia;1980;Thorgal;Jean Van Hamme;Grzegorz Rosiński
 La Forteresse Invisible;1983;Thorgal;Jean Van Hamme;Grzegorz Rosiński
 Le Pays Qâ;1983;Thorgal;Jean Van Hamme;Grzegorz Rosiński
-
-
-
-
-
-
+La Serpe d'Or;1962;Astérix;René Goscinny;Albert Uderzo
+Le Devin;1967;Astérix;René Goscinny;Albert Uderzo
+Astérix et Cléopâtre;1965;Astérix;René Goscinny;Albert Uderzo
+Le Tour de Gaule;1965;Astérix;René Goscinny;Albert Uderzo
+Chez les Bretons;1966;Astérix;René Goscinny;Albert Uderzo
+Les Normands;1967;Astérix;René Goscinny;Albert Uderzo
+Légionnaire;1967;Astérix;René Goscinny;Albert Uderzo
+Le Bouclier Arverne;1968;Astérix;René Goscinny;Albert Uderzo
+Tour de France;1969;Astérix;René Goscinny;Albert Uderzo
+Chez les Helvètes;1970;Astérix;René Goscinny;Albert Uderzo
+Le Secret de la Licorne;1943;Tintin;Hergé;
+Le Lotus Bleu;1936;Tintin;Hergé;
+Le Crabe aux Pinces d’Or;1941;Tintin;Hergé;
+L’Île Noire;1937;Tintin;Hergé;
+Le Sceptre d’Ottokar;1938;Tintin;Hergé;
+Le Trésor de Rackham le Rouge;1944;Tintin;Hergé;
+Les 7 Boules de Cristal;1948;Tintin;Hergé;
+Le Temple du Soleil;1949;Tintin;Hergé;
+Au Pays de l’Or Noir;1950;Tintin;Hergé;
+Objectif Lune;1953;Tintin;Hergé;
+On a marché sur la Lune;1954;Tintin;Hergé;
+L’Affaire Tournesol;1956;Tintin;Hergé;
+Coke en Stock;1958;Tintin;Hergé;
+Tintin au Tibet;1960;Tintin;Hergé;
+Les Bijoux de la Castafiore;1963;Tintin;Hergé;
+Vol 714 pour Sydney;1968;Tintin;Hergé;
+Les Cigares du Pharaon;1934;Tintin;Hergé;
+L’Oreille Cassée;1937;Tintin;Hergé;
+Le Lac aux Requins;1972;Tintin;Hergé;
+Le Secret de l’Espadon;1950;Blake & Mortimer;Edgar P. Jacobs;
+Le Mystère de la Grande Pyramide;1954;Blake & Mortimer;Edgar P. Jacobs;
+La Marque Jaune;1953;Blake & Mortimer;Edgar P. Jacobs;
+Le Piège Diabolique;1960;Blake & Mortimer;Edgar P. Jacobs;
+Le Sanctuaire du Mal;1965;Blake & Mortimer;Edgar P. Jacobs;
+SOS Météores;1963;Blake & Mortimer;Edgar P. Jacobs;
+Le Schtroumpfissime;1963;Les Schtroumpfs;Peyo;
+Les Schtroumpfs Noirs;1963;Les Schtroumpfs;Peyo;
+Les Schtroumpfs à l’École;1964;Les Schtroumpfs;Peyo;
+Le Schtroumpf du Printemps;1965;Les Schtroumpfs;Peyo;
+L’Ours et le Schtroumpf;1966;Les Schtroumpfs;Peyo;
+Le Réveille-Gaffes;1970;Gaston Lagaffe;Franquin;
+Lagaffe mérite des baffes;1982;Gaston Lagaffe;Franquin;
+Panique au Lagaffe;1983;Gaston Lagaffe;Franquin;
+Lagaffe à gogo;1981;Gaston Lagaffe;Franquin;
+Des Rails sur la Prairie;1968;Lucky Luke;Morris;René Goscinny
+La Diligence;1962;Lucky Luke;Morris;
+Western Circus;1970;Lucky Luke;Goscinny;Morris
+Les Rivaux de Painful Gulch;1968;Lucky Luke;Goscinny;Morris
+Tortilla pour les Dalton;1967;Lucky Luke;Goscinny;Morris
+La Magicienne Trahie;1981;Thorgal;Jean Van Hamme;Grzegorz Rosiński
+Aaricia;1980;Thorgal;Jean Van Hamme;Grzegorz Rosiński
+La Forteresse Invisible;1983;Thorgal;Jean Van Hamme;Grzegorz Rosiński
+Le Pays Qâ;1983;Thorgal;Jean Van Hamme;Grzegorz Rosiński
+Les Archers;1985;Thorgal;Jean Van Hamme;Grzegorz Rosiński
+La Couronne d’Ogom;1986;Thorgal;Jean Van Hamme;Grzegorz Rosiński
+Les Forgerons d’Asgard;1997;Lanfeust de Troy;Christophe Arleston;Didier Tarquin
+Trolls de Troy;1995;Lanfeust de Troy;Christophe Arleston;Didier Tarquin
+La Couette de Trolle;1996;Lanfeust de Troy;Christophe Arleston;Didier Tarquin
+La Quête des Origines;1998;Lanfeust de Troy;Christophe Arleston;Didier Tarquin
+Les Larmes de Glaou;1999;Lanfeust de Troy;Christophe Arleston;Didier Tarquin
+Ame Rouge;2003;Blacksad;Juan Díaz Canales;Juanjo Guarnido
+Arctic Nation;2003;Blacksad;Juan Díaz Canales;Juanjo Guarnido
+Âme Noire;2005;Blacksad;Juan Díaz Canales;Juanjo Guarnido
+Âme Blanche;2007;Blacksad;Juan Díaz Canales;Juanjo Guarnido
+Le Voyage;1966;Boule et Bill;Jean Roba;
+Bill au Cirque;1967;Boule et Bill;Jean Roba;
+En Vacances;1968;Boule et Bill;Jean Roba;
+Le Petit Chien;1969;Boule et Bill;Jean Roba;
+Au Ski;1970;Boule et Bill;Jean Roba;
+Cœur de Cochon;2003;Pico Bogue;Dominique Krieg;Alexis Dormal
+Super Pico;2005;Pico Bogue;Dominique Krieg;Alexis Dormal
+La Cité de l’Ombre;2007;Seuls;Fabien Vehlmann;Bruno Gazzotti
+L’Île des Morts;2008;Seuls;Fabien Vehlmann;Bruno Gazzotti
+Malenuit;2009;Seuls;Fabien Vehlmann;Bruno Gazzotti
+Contagion;2010;Seuls;Fabien Vehlmann;Bruno Gazzotti
+Le Silence des Ombres;1987;Soda;Tome;Bruno Gazzotti
+Apnée;1989;Soda;Tome;Bruno Gazzotti
+Missié;1990;Soda;Tome;Bruno Gazzotti
+Des Millions dans la Nuit;1992;Soda;Tome;Bruno Gazzotti
+Blueberry;1968;Les Tuniques Bleues;Raoul Cauvin;Lambil
+Fort Navajo;1969;Les Tuniques Bleues;Raoul Cauvin;Lambil
+Outlaw;1970;Les Tuniques Bleues;Raoul Cauvin;Lambil
+Les Bleus dans la Prairie;1971;Les Tuniques Bleues;Raoul Cauvin;Lambil
+Le Mystère du Dragon;1982;Lanfeust de Troy;Christophe Arleston;Didier Tarquin
+La Fille du Vent;1984;Lanfeust de Troy;Christophe Arleston;Didier Tarquin
+Les Pirates du Troy;1985;Lanfeust de Troy;Christophe Arleston;Didier Tarquin
+La Planète Troll;1986;Lanfeust de Troy;Christophe Arleston;Didier Tarquin
+La Mort de Lanfeust;1987;Lanfeust de Troy;Christophe Arleston;Didier Tarquin
+La Magie Perdue;1988;Lanfeust de Troy;Christophe Arleston;Didier Tarquin
+La Légende de Troy;1989;Lanfeust de Troy;Christophe Arleston;Didier Tarquin
+La Guerre des Trolls;1990;Lanfeust de Troy;Christophe Arleston;Didier Tarquin
+Les Dieux de Troy;1991;Lanfeust de Troy;Christophe Arleston;Didier Tarquin
+Le Sang des Trolls;1992;Lanfeust de Troy;Christophe Arleston;Didier Tarquin
+Le Démon des Glaces;2001;Blacksad;Juan Díaz Canales;Juanjo Guarnido
+Âme Rouge;2003;Blacksad;Juan Díaz Canales;Juanjo Guarnido
+Arctic Nation;2003;Blacksad;Juan Díaz Canales;Juanjo Guarnido
+Âme Noire;2005;Blacksad;Juan Díaz Canales;Juanjo Guarnido
+Âme Blanche;2007;Blacksad;Juan Díaz Canales;Juanjo Guarnido
+La Malédiction;1992;Boule et Bill;Jean Roba;
+Bill et le Camping;1993;Boule et Bill;Jean Roba;
+Le Cirque;1994;Boule et Bill;Jean Roba;
+Boule et Bill à la Mer;1995;Boule et Bill;Jean Roba;
+Le Nouveau Chien;1996;Boule et Bill;Jean Roba;
+Le Bon Gros Bill;1997;Boule et Bill;Jean Roba;
+Le Chien Fantôme;1998;Boule et Bill;Jean Roba;
+Bill et Boule;1999;Boule et Bill;Jean Roba;
+Le Chien et la Plage;2000;Boule et Bill;Jean Roba;
+Vacances en Folie;2001;Boule et Bill;Jean Roba;
+La Tentation;2004;Pico Bogue;Dominique Krieg;Alexis Dormal
+Super Pico 2;2006;Pico Bogue;Dominique Krieg;Alexis Dormal
+Pico Bogue et le Chat;2007;Pico Bogue;Dominique Krieg;Alexis Dormal
+Le Secret de la Cité;2008;Seuls;Fabien Vehlmann;Bruno Gazzotti
+La Révolte;2009;Seuls;Fabien Vehlmann;Bruno Gazzotti
+La Nuit;2010;Seuls;Fabien Vehlmann;Bruno Gazzotti
+Le Retour;2011;Seuls;Fabien Vehlmann;Bruno Gazzotti
+La Traque;2012;Seuls;Fabien Vehlmann;Bruno Gazzotti
+Le Silence;2013;Soda;Tome;Bruno Gazzotti
+L’Enquête;2014;Soda;Tome;Bruno Gazzotti
+La Nuit Noire;2015;Soda;Tome;Bruno Gazzotti
+Les Dalton;1961;Lucky Luke;Morris;Goscinny
+Rails de l’Ouest;1962;Lucky Luke;Morris;Goscinny
+La Mine d’Or;1963;Lucky Luke;Morris;Goscinny
+Le Vieux Dalton;1964;Lucky Luke;Morris;Goscinny
+Billy the Kid;1965;Lucky Luke;Morris;Goscinny
+La Bande à Bonnot;1966;Lucky Luke;Morris;Goscinny
+Le Kid;1967;Lucky Luke;Morris;Goscinny
+Le Cavalier Solitaire;1968;Lucky Luke;Morris;Goscinny
+Le Désert;1969;Lucky Luke;Morris;Goscinny
+La Ruée vers l’Ouest;1970;Lucky Luke;Morris;Goscinny
+La Magicienne Trahie;1981;Thorgal;Jean Van Hamme;Grzegorz Rosiński
+Aaricia;1980;Thorgal;Jean Van Hamme;Grzegorz Rosiński
+La Forteresse Invisible;1983;Thorgal;Jean Van Hamme;Grzegorz Rosiński
+Le Pays Qâ;1983;Thorgal;Jean Van Hamme;Grzegorz Rosiński
+Les Archers;1985;Thorgal;Jean Van Hamme;Grzegorz Rosiński
+La Couronne d’Ogom;1986;Thorgal;Jean Van Hamme;Grzegorz Rosiński
+Le Secret de l’Espadon;1950;Blake & Mortimer;Edgar P. Jacobs;
+Le Mystère de la Grande Pyramide;1954;Blake & Mortimer;Edgar P. Jacobs;
+La Marque Jaune;1953;Blake & Mortimer;Edgar P. Jacobs;
+Le Piège Diabolique;1960;Blake & Mortimer;Edgar P. Jacobs;
+Le Sanctuaire du Mal;1965;Blake & Mortimer;Edgar P. Jacobs;
+La Malédiction;1992;Boule et Bill;Jean Roba;
+Bill et le Camping;1993;Boule et Bill;Jean Roba;
+Le Cirque;1994;Boule et Bill;Jean Roba;
+Boule et Bill à la Mer;1995;Boule et Bill;Jean Roba;
+Le Nouveau Chien;1996;Boule et Bill;Jean Roba;
+Le Bon Gros Bill;1997;Boule et Bill;Jean Roba;
+Le Chien Fantôme;1998;Boule et Bill;Jean Roba;
+Bill et Boule;1999;Boule et Bill;Jean Roba;
+Le Chien et la Plage;2000;Boule et Bill;Jean Roba;
+Vacances en Folie;2001;Boule et Bill;Jean Roba;
+La Tentation;2004;Pico Bogue;Dominique Krieg;Alexis Dormal
+Super Pico 2;2006;Pico Bogue;Dominique Krieg;Alexis Dormal
+Pico Bogue et le Chat;2007;Pico Bogue;Dominique Krieg;Alexis Dormal
+Le Secret de la Cité;2008;Seuls;Fabien Vehlmann;Bruno Gazzotti
+La Révolte;2009;Seuls;Fabien Vehlmann;Bruno Gazzotti
+La Nuit;2010;Seuls;Fabien Vehlmann;Bruno Gazzotti
+Le Retour;2011;Seuls;Fabien Vehlmann;Bruno Gazzotti
+La Traque;2012;Seuls;Fabien Vehlmann;Bruno Gazzotti
+Le Silence;2013;Soda;Tome;Bruno Gazzotti
+L’Enquête;2014;Soda;Tome;Bruno Gazzotti
+La Nuit Noire;2015;Soda;Tome;Bruno Gazzotti
