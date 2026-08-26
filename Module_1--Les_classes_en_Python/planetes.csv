@@ -1,0 +1,9 @@
+Nom,Distance_Soleil,Masse,Diametre,Tellurique
+Mercure,57.9,0.330,4879,Oui
+Venus,108.2,4.87,12104,Oui
+Terre,149.6,5.97,12756,Oui
+Mars,228.0,0.642,6792,Oui
+Jupiter,778.5,1898,142984,Non
+Saturne,1432.0,568,120536,Non
+Uranus,2867.0,86.8,51118,Non
+Neptune,4515.0,102,49528,Non
