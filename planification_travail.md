@@ -1,4 +1,4 @@
-# Planification du travail hebdomadaire
+# Planification des cours
 
 ## Cours 1.1
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
