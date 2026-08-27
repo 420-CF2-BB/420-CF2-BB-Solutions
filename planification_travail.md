@@ -3,13 +3,13 @@
 ## Cours 1.1
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
-| 0.1 0.2 0.3 0.4               | 0.5 0.6                       | Sections 1.1 et 1.2            |
+| 0.1 0.2 0.3 0.4               | 0.5 0.6                       | Sections 1.1 à 1.3            |
 
 ## Cours 1.2
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
-| 0.7                           |                               | Sections 1.3 à 1.7             |
-|                               |                               |                                |
+| 0.7                           |                               | Sections 1.4 à 1.6             |
+| 1.1 1.2                       | 1.3                           |                                |
 
 <!--
 
