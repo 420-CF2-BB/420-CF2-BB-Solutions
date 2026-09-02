@@ -15,8 +15,8 @@
 ## Cours 2.1
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
-| 1.4 1.6                       | 1.5                           | Section 1.6                    |
-| 1.7                           | 1.8                           | Sections 2.1 et 2.2            |
+| 1.4 1.6 1.7                   | 1.5 1.8                       | Section 1.6                    |
+|                               |                               | Sections 2.1 et 2.2            |
 
 ## Cours 2.2
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
