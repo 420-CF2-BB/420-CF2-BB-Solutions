@@ -8,17 +8,30 @@
 ## Cours 1.2
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
-| 0.7                           |                               | Sections 1.4 à 1.6             |
+| 0.7                           |                               | Sections 1.4 et 1.5            |
 | 1.1 1.2                       | 1.3                           |                                |
 
-<!--
 
 ## Cours 2.1
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
-| 1.5                           | 1.4 1.6                       | Sections 2.1 à 2.2             |
-| 1.7 1.8                       |                               |                                |
-| 1.9                           | 1.10                          |                                |
+| 1.4 1.6                       | 1.5                           | Section 1.6                    |
+| 1.7                           | 1.8                           | Sections 2.1 et 2.2            |
+
+## Cours 2.2
+| Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
+|:-----------------------------:|:-----------------------------:|:------------------------------:|
+| 1.9                           | 1.10                          | Sections 2.3 à 2.5             |
+| 2.1 2.2 2.3                   | 2.4                           |                                |
+
+## Cours 3.1
+| Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
+|:-----------------------------:|:-----------------------------:|:------------------------------:|
+| 2.5                           |                               | à compléter                    |
+| 2.6 2.7                       | 2.8                           |                                |
+
+
+<!--
 
 ## Semaine 3
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
