@@ -27,9 +27,14 @@
 ## Cours 3.1 (11 septembre)
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
-| 2.5                           |                               | à compléter                    |
+| 2.5                           |                               | Sections 5.1 à 5.4             |
 | 2.6 2.7                       | 2.8                           |                                |
 
+## Cours 3.2 (14 septembre)
+| Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
+|:-----------------------------:|:-----------------------------:|:------------------------------:|
+| 5.1                           |                               | à compléter                    |
+| 5.2 5.3 5.4                   | 5.5 5.6                       |                                |
 
 <!--
 
