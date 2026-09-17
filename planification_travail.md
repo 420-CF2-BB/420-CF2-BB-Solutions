@@ -11,7 +11,6 @@
 | 0.7                           |                               | Sections 1.4 et 1.5            |
 | 1.1 1.2                       | 1.3                           |                                |
 
-
 ## Cours 2.1 (31 août)
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
@@ -33,11 +32,21 @@
 ## Cours 3.2 (14 septembre)
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
-| 5.1                           |                               | à compléter                    |
+| 5.1                           |                               | Sections 3.1 à 3.3             |
 | 5.2 5.3 5.4                   | 5.5 5.6                       |                                |
 
-<!--
+## Cours 4.1 (18 septembre)
+| Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
+|:-----------------------------:|:-----------------------------:|:------------------------------:|
+| 3.1 3.2 3.3                   | 3.4                           | Sections 3.4 et 3.5            |
 
+## Cours 4.2 (21 septembre)
+| Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
+|:-----------------------------:|:-----------------------------:|:------------------------------:|
+| 3.5 3.6 3.7                   | 3.8 3.9                       | À compléter                    |
+
+
+<!--
 ## Semaine 3
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
