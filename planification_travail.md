@@ -66,11 +66,6 @@
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
 | Séance de travail TP #1       | Avancer le TP #1              |                                |
 
-## Cours 6.2 (6 octobre)
-| Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
-|:-----------------------------:|:-----------------------------:|:------------------------------:|
-| Séance de travail TP #1       | Avancer le TP #1              |                                |
-
 ## Cours 7.1 (9 octobre)
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
