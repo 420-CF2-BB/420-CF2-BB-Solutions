@@ -43,8 +43,54 @@
 ## Cours 4.2 (21 septembre)
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
-| 3.5 3.6 3.7                   | 3.8 3.9                       | À compléter                    |
+| 3.5 3.6 3.7                   | 3.8 3.9                       | Aucune lecture                 |
 
+## Cours 5.1 (25 septembre)
+| Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
+|:-----------------------------:|:-----------------------------:|:------------------------------:|
+| Contrôle #1                   | Aucun                         | Sections 4.1 et 4.2            |
+
+## Cours 5.2 (28 septembre)
+| Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
+|:-----------------------------:|:-----------------------------:|:------------------------------:|
+| 4.1 4.2 4.3                   | Aucun                         | Section 4.3                    |
+
+## Cours 6.1 (2 octobre)
+| Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
+|:-----------------------------:|:-----------------------------:|:------------------------------:|
+| 4.4 4.6 4.7                   | 4.5 4.8                       | Aucune                         |
+| Présentation TP #1            |                               |                                |
+
+## Cours 6.2 (6 octobre)
+| Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
+|:-----------------------------:|:-----------------------------:|:------------------------------:|
+| Séance de travail TP #1       | Avancer le TP #1              |                                |
+
+## Cours 6.2 (6 octobre)
+| Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
+|:-----------------------------:|:-----------------------------:|:------------------------------:|
+| Séance de travail TP #1       | Avancer le TP #1              |                                |
+
+## Cours 7.1 (9 octobre)
+| Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
+|:-----------------------------:|:-----------------------------:|:------------------------------:|
+| Séance de travail TP #1       | Avancer le TP #1              |                                |
+
+## Cours 7.2 (14 octobre)
+| Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
+|:-----------------------------:|:-----------------------------:|:------------------------------:|
+| Séance de travail TP #1       | Avancer le TP #1              |                                |
+
+## Cours 8.1 (16 octobre)
+| Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
+|:-----------------------------:|:-----------------------------:|:------------------------------:|
+| Remise TP #1                  |                               | Étude pour l'examen intra      |
+| Examen formatif               |                               |                                |
+
+## Cours 8.2 (19 octobre)
+| Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
+|:-----------------------------:|:-----------------------------:|:------------------------------:|
+| Examen intra                  |                               | Sections 5.5 et 5.6            |
 
 <!--
 ## Semaine 3
