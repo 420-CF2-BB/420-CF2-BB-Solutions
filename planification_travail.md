@@ -87,6 +87,22 @@
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
 | Examen intra                  |                               | Sections 5.5 et 5.6            |
 
+## Cours 9.1 (23 octobre)
+| Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
+|:-----------------------------:|:-----------------------------:|:------------------------------:|
+| 5.7 5.8                       | 5.9                           | Sections 6.1 à 6.4             |
+
+## Cours 9.2 (26 octobre)
+| Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
+|:-----------------------------:|:-----------------------------:|:------------------------------:|
+| 6.1 6.3 6.5                   | 6.2 6.4                       | Section  6.5                   |
+
+## Cours 10.1 (29 octobre)
+| Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
+|:-----------------------------:|:-----------------------------:|:------------------------------:|
+| 6.6 6.7                       | 6.2 6.4                       | À compléter                    |
+| 6.8 1.10                      | 6.9 6.11                      |                                |
+
 <!--
 ## Semaine 3
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
