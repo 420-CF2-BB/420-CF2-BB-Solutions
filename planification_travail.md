@@ -101,7 +101,7 @@
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
 | 6.6 6.7                       | 6.2 6.4                       | À compléter                    |
-| 6.8 1.10                      | 6.9 6.11                      |                                |
+| 6.8 6.10                      | 6.9 6.11                      |                                |
 
 <!--
 ## Semaine 3
