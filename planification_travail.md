@@ -100,8 +100,20 @@
 ## Cours 10.1 (29 octobre)
 | Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
 |:-----------------------------:|:-----------------------------:|:------------------------------:|
-| 6.6 6.7                       | 6.2 6.4                       | À compléter                    |
+| 6.6 6.7                       | 6.2 6.4                       | Sections 7.1 à 7.5             |
 | 6.8 6.10                      | 6.9 6.11                      |                                |
+
+## Cours 10.2 (2 novembre)
+| Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
+|:-----------------------------:|:-----------------------------:|:------------------------------:|
+| 7.1 ou 7.2 (au choix)         | 7.1 ou 7.2 (celui pas fait)   | Sections 7.6 et 7.7            |
+| 7.3                           | 7.4                           |                                |
+
+## Cours 11.1 (6 novembre)
+| Exercices faits en classe     | Exercices à faire à la maison | Lecture pour le prochain cours |
+|:-----------------------------:|:-----------------------------:|:------------------------------:|
+| 7.5                           | 7.6                           | À compléter                    |
+| 7.7 7.8                       |                               |                                |
 
 <!--
 ## Semaine 3
